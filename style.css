@@ -45,6 +45,7 @@ body {
 .result-screen {
     display: none;
     position: fixed;
+    align-items: center;
     top: 0;
     left: 0;
     width: 100%;
