@@ -61,6 +61,8 @@ body {
 }
 
 .new-game-btn {
+    top: 50%;
+    left: 50%;
     background-color: #4caf50;
     color: #fff;
     padding: 10px 20px;
