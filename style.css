@@ -68,7 +68,8 @@ body {
     cursor: pointer;
     border: none;
     border-radius: 5px;
-    margin-top: 20px;
+    display: block; /* Make the button a block-level element */
+    margin: 0 auto; /* Center horizontally */
 }
 
 .new-game-btn:hover {
