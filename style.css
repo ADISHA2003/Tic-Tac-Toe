@@ -25,6 +25,7 @@ body {
     height: 100px;
     background-color: #fff;
     border: 2px solid #333;
+    border-radius: 20px;
     font-size: 24px;
     display: flex;
     align-items: center;
